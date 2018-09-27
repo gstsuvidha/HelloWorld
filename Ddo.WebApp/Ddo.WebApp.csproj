@@ -8,6 +8,7 @@
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
     <!-- Set this to true if you enable server-side prerendering -->
     <BuildServerSideRenderer>false</BuildServerSideRenderer>
+    <UserSecretsId>f3572a1b-6f04-4a16-9a40-8239d7ff59d9</UserSecretsId>
 
   </PropertyGroup>
 

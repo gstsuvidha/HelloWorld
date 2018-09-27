@@ -27,7 +27,7 @@ namespace Ddo.WebApp
             services.AddMvc();
             services.AddSpaStaticFiles(configuration =>
             {
-                configuration.RootPath = "ClientApp/dist";
+                configuration.RootPath = $"ClientApp/dist";
             });
         }
 
